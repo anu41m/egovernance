@@ -1,0 +1,10 @@
+.mat-tab-group {
+  margin-bottom: 48px;
+}
+.center{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  font-size: x-small;
+}
+

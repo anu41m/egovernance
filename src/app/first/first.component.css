@@ -1,0 +1,35 @@
+.c1{
+  margin-top: 10%;
+}
+.example-container .mat-form-field  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: -35px;
+    }
+.example-container1 .mat-form-field  {
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.example-button-row1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+a{
+ font-size: smaller;
+}
+section {
+  display: inline;
+}
+.example-button-row{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+
